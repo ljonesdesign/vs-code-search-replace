@@ -1,0 +1,9 @@
+ 
+ This lesson plan was added to the 2021 INLS 161 Summer School Session 1 as a 
+ possible new approach for understanding search and replace.
+
+go here and copy (Control + A) all the raw text: 
+https://www.gutenberg.org/cache/epub/38516/pg38516.txt and paste in Step-02a.paste-here.txt
+
+We will then remove the end matter and the front matter. 
+You can compare your paste with the result paste.
