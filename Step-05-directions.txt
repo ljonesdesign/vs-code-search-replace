@@ -1,0 +1,60 @@
+In the previous results, remove all of the line breaks so that the file will reflow.
+
+Note: this file is full of hard returns. It looks the same in word wrap on or off.
+
+But before you do that, practice in this file....
+
+1. Go to edit menu and choose replace. DO NOT CHOOSE REPLACE IN FILES!
+
+2. Type in \n in the find box. you will see the \n selected in this file.
+But we do not want to select these, we want to select the invisible characters.
+So click the .* at the end of the box. When you do that, you will see the invisible line ending
+characters selected.
+
+3. Our goal is to remove all of those extra line endings on every line and only have one line ending
+between paragraphs.
+
+
+
+
+ON THE THRESHOLD OF THE HIVE
+
+
+I have not yet forgotten the first apiary I saw, where I learned to love
+the bees. It was many years ago, in a large village of Dutch Flanders,
+the sweet and pleasant country that rejoices in brilliant flowers; a
+country that gladly spreads out before us, as so many pretty toys, her
+illuminated gables and wagons and towers; her cupboards and clocks that
+gleam at the end of the passage; her little trees marshaled in line
+along quays and canal-banks, waiting, one almost might think, for some
+splendid procession to pass; her boats and her barges with sculptured
+sterns, her flower-like doors and windows, her spotless dams and
+many-coloured drawbridges; and her little varnished houses, bright as
+new pottery, from which bell-shaped dames come forth, all a-glitter with
+silver and gold, to milk the cows in the white-hedged fields, or spread
+the linen on flowery lawns that are cut into patterns of oval and
+lozenge and are most amazingly green.
+
+To this spot an aged philosopher had retired, having become a little
+weary; and here he had built his refuge. His happiness lay all in the
+beauties of his garden; and best-loved, and visited most often, were the
+bee-hives. There were twelve of them, twelve domes of straw; and some he
+had painted a bright pink, and some a clear yellow, but most were a
+tender blue, for he had noticed the fondness of the bees for this
+color. These hives stood against the wall of the house, in the angle
+formed by one of those pleasant and graceful Dutch kitchens whose
+earthenware dresser, all bright with copper and brass, was reflected
+through the open door on to the peaceful water of the canal. And the
+water, carrying these familiar images beneath its curtain of poplars,
+led one's eyes to a calm horizon of meadows and of mills.
+
+Here, as in all places, the hives lent a new meaning to the flowers and
+the silence, the balm of the air and the rays of the sun. One seemed to
+have drawn very near to all that was happiest in nature. One was content
+to sit down and rest at this radiant cross-road, along which the busy
+and tuneful bearers of all country perfumes were incessantly passing
+from dawn until dusk. One heard the musical voice of the garden, whose
+loveliest hours seemed to rejoice and to sing of their gladness. One
+came here, to the school of the bees, to be taught how nature is always
+at work, always scheming and planning; and to learn too the lesson of
+whole-hearted labor which is always to benefit others.

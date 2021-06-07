@@ -1,0 +1,7 @@
+Remove any extraneous information that is repeated or references to illustrations.
+
+In this tutorial, that would be line 39-57
+
+The table of contents will be removed later and generated automatically.
+
+(This is an e-reader with illustrations removed.)
