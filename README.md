@@ -2,7 +2,7 @@
 
 This is an alternative way to setup a Gutenberg raw file for the 03-Markup Project using VS Code (Instead of the MS Word workflow).
 
-This is normally only offered during Summer Sessions.
+This is only demonstrated during Summer Sessions.
 
 **Important difference:** In Word, we will use a paragraph symbol ```^p```, but in VS Code, we will use a ```\n``` new line character.
 
